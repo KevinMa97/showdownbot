@@ -1,0 +1,51 @@
+{"game":"2695648388","realLines":129,"simLines":129,"exact":true,"firstDiffAt":129,"real":"<end>","sim":"<end>"}
+{"game":"2695895885","realLines":111,"simLines":119,"exact":false,"firstDiffAt":110,"real":"|win|","sim":"|move|p2a|Moonblast|p1a: Sceptile"}
+{"game":"2695566747","realLines":150,"simLines":154,"exact":false,"firstDiffAt":149,"real":"|win|","sim":"|move|p2a|Knock Off|p1a: Meowscarada"}
+{"game":"2695408814","realLines":95,"simLines":392,"exact":false,"firstDiffAt":94,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695438238","realLines":42,"simLines":143,"exact":false,"firstDiffAt":41,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695945408","realLines":37,"simLines":106,"exact":false,"firstDiffAt":36,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695888158","realLines":95,"simLines":193,"exact":false,"firstDiffAt":94,"real":"|win|","sim":"|move|p2a|Hurricane|p1a: Dunsparce|[miss]"}
+{"game":"2695550009","realLines":143,"simLines":143,"exact":true,"firstDiffAt":143,"real":"<end>","sim":"<end>"}
+{"game":"2695659528","realLines":263,"simLines":320,"exact":false,"firstDiffAt":262,"real":"|win|","sim":"|switch|p2a|100%"}
+{"game":"2695790812","realLines":109,"simLines":118,"exact":false,"firstDiffAt":108,"real":"|win|","sim":"|move|p1a|Facade|p2a: Venomoth"}
+{"game":"2695526929","realLines":127,"simLines":163,"exact":false,"firstDiffAt":126,"real":"|win|","sim":"|move|p2a|Gunk Shot|p1a: Leavanny"}
+{"game":"2695643892","realLines":89,"simLines":92,"exact":false,"firstDiffAt":88,"real":"|win|","sim":"|move|p2a|Tera Blast|p1a: Spidops|[anim] Tera Blast Electric"}
+{"game":"2695457324","realLines":218,"simLines":209,"exact":false,"firstDiffAt":92,"real":"|-singleturn|p2a|move: Beak Blast","sim":"|move|p1a|Outrage|p2a: Toucannon|lockedmove"}
+{"game":"2695811187","realLines":142,"simLines":142,"exact":true,"firstDiffAt":142,"real":"<end>","sim":"<end>"}
+{"game":"2695907343","realLines":138,"simLines":138,"exact":true,"firstDiffAt":138,"real":"<end>","sim":"<end>"}
+{"game":"2695939085","realLines":159,"simLines":159,"exact":true,"firstDiffAt":159,"real":"<end>","sim":"<end>"}
+{"game":"2695664907","realLines":230,"simLines":245,"exact":false,"firstDiffAt":229,"real":"|win|","sim":"|move|p1a|Body Press|p2a: Ursaluna"}
+{"game":"2695514612","realLines":148,"simLines":153,"exact":false,"firstDiffAt":147,"real":"|win|","sim":"|move|p2a|Lumina Crash|p1a: Great Tusk"}
+{"game":"2695706814","realLines":26,"simLines":56,"exact":false,"firstDiffAt":25,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695427330","realLines":296,"simLines":309,"exact":false,"firstDiffAt":295,"real":"|win|","sim":"|move|p2a|Boomburst|p1a: Probopass"}
+{"game":"2695633104","realLines":120,"simLines":125,"exact":false,"firstDiffAt":119,"real":"|win|","sim":"|switch|p2a|100%"}
+{"game":"2695970190","realLines":140,"simLines":140,"exact":true,"firstDiffAt":140,"real":"<end>","sim":"<end>"}
+{"game":"2695767695","realLines":170,"simLines":170,"exact":true,"firstDiffAt":170,"real":"<end>","sim":"<end>"}
+{"game":"2695525478","realLines":160,"simLines":192,"exact":false,"firstDiffAt":159,"real":"|win|","sim":"|move|p2a|Liquidation|p1a: Reuniclus"}
+{"game":"2695339796","realLines":48,"simLines":68,"exact":false,"firstDiffAt":47,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695821386","realLines":99,"simLines":99,"exact":true,"firstDiffAt":99,"real":"<end>","sim":"<end>"}
+{"game":"2695527842","realLines":148,"simLines":186,"exact":false,"firstDiffAt":147,"real":"|win|","sim":"|switch|p2a|100%"}
+{"game":"2695408133","realLines":50,"simLines":88,"exact":false,"firstDiffAt":23,"real":"|move|p1a|Superpower|p2a: Toucannon","sim":"|-singleturn|p2a|move: Beak Blast"}
+{"game":"2695820335","realLines":3,"simLines":40,"exact":false,"firstDiffAt":2,"real":"|win|","sim":"|move|p1a|Gunk Shot|p2a: Golem"}
+{"game":"2695834928","realLines":71,"simLines":85,"exact":false,"firstDiffAt":70,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695496575","realLines":175,"simLines":175,"exact":true,"firstDiffAt":175,"real":"<end>","sim":"<end>"}
+{"game":"2695623160","realLines":193,"simLines":193,"exact":true,"firstDiffAt":193,"real":"<end>","sim":"<end>"}
+{"game":"2695852702","realLines":83,"simLines":83,"exact":true,"firstDiffAt":83,"real":"<end>","sim":"<end>"}
+{"game":"2695939820","realLines":150,"simLines":150,"exact":true,"firstDiffAt":150,"real":"<end>","sim":"<end>"}
+{"game":"2695931300","realLines":209,"simLines":215,"exact":false,"firstDiffAt":208,"real":"|win|","sim":"|move|p2a|Knock Off|p1a: Calyrex"}
+{"game":"2695826115","realLines":13,"simLines":138,"exact":false,"firstDiffAt":12,"real":"|win|","sim":"|move|p2a|Precipice Blades|p1a: Ampharos"}
+{"game":"2695962153","realLines":239,"simLines":243,"exact":false,"firstDiffAt":238,"real":"|win|","sim":"|move|p1a|Power Whip|p2a: Kyurem"}
+{"game":"2695762649","realLines":581,"simLines":581,"exact":true,"firstDiffAt":581,"real":"<end>","sim":"<end>"}
+{"game":"2695528724","realLines":191,"simLines":191,"exact":true,"firstDiffAt":191,"real":"<end>","sim":"<end>"}
+{"game":"2695526563","realLines":203,"simLines":203,"exact":true,"firstDiffAt":203,"real":"<end>","sim":"<end>"}
+{"game":"2695498848","realLines":222,"simLines":235,"exact":false,"firstDiffAt":221,"real":"|win|","sim":"|move|p2a|Tera Blast|p1a: Flutter Mane"}
+{"game":"2695630377","realLines":139,"simLines":139,"exact":true,"firstDiffAt":139,"real":"<end>","sim":"<end>"}
+{"game":"2695551383","realLines":156,"simLines":156,"exact":true,"firstDiffAt":156,"real":"<end>","sim":"<end>"}
+{"game":"2695932904","realLines":167,"simLines":167,"exact":true,"firstDiffAt":167,"real":"<end>","sim":"<end>"}
+{"game":"2695804878","realLines":180,"simLines":180,"exact":true,"firstDiffAt":180,"real":"<end>","sim":"<end>"}
+{"game":"2695333920","realLines":170,"simLines":208,"exact":false,"firstDiffAt":169,"real":"|win|","sim":"|move|p2a|Body Press|p1a: Lunala"}
+{"game":"2695333782","realLines":114,"simLines":142,"exact":false,"firstDiffAt":113,"real":"|win|","sim":"|move|p1a|Knock Off|p2a: Dudunsparce"}
+{"game":"2695419531","realLines":75,"simLines":178,"exact":false,"firstDiffAt":74,"real":"|win|","sim":"|move|p1a|Foul Play|p2a: Dondozo"}
+{"game":"2695373231","realLines":152,"simLines":152,"exact":true,"firstDiffAt":152,"real":"<end>","sim":"<end>"}
+{"game":"2695408896","realLines":83,"simLines":277,"exact":false,"firstDiffAt":82,"real":"|win|","sim":"|switch|p1a|100%"}
+SET_DONE

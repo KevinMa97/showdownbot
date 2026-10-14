@@ -1,0 +1,51 @@
+{"game":"2695972429","realLines":112,"simLines":112,"exact":true,"firstDiffAt":112,"real":"<end>","sim":"<end>"}
+{"game":"2695725662","realLines":127,"simLines":127,"exact":true,"firstDiffAt":127,"real":"<end>","sim":"<end>"}
+{"game":"2695370423","realLines":110,"simLines":140,"exact":false,"firstDiffAt":109,"real":"|win|","sim":"|switch|p2a|100%"}
+{"game":"2695866689","realLines":148,"simLines":181,"exact":false,"firstDiffAt":147,"real":"|win|","sim":"|move|p1a|Body Slam|p2a: Gogoat"}
+{"game":"2695338294","realLines":143,"simLines":214,"exact":false,"firstDiffAt":142,"real":"|win|","sim":"|move|p1a|Ice Beam|p2a: Gothitelle"}
+{"game":"2695358211","realLines":105,"simLines":105,"exact":true,"firstDiffAt":105,"real":"<end>","sim":"<end>"}
+{"game":"2695420034","realLines":179,"simLines":179,"exact":true,"firstDiffAt":179,"real":"<end>","sim":"<end>"}
+{"game":"2695931435","realLines":161,"simLines":161,"exact":true,"firstDiffAt":161,"real":"<end>","sim":"<end>"}
+{"game":"2695527787","realLines":72,"simLines":137,"exact":false,"firstDiffAt":71,"real":"|win|","sim":"|move|p2a|Fire Blast|p1a: Skarmory"}
+{"game":"2695514412","realLines":90,"simLines":105,"exact":false,"firstDiffAt":89,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695392936","realLines":153,"simLines":153,"exact":true,"firstDiffAt":153,"real":"<end>","sim":"<end>"}
+{"game":"2695396627","realLines":36,"simLines":216,"exact":false,"firstDiffAt":35,"real":"|win|","sim":"|move|p1a|Acrobatics|p2a: Samurott"}
+{"game":"2695898940","realLines":242,"simLines":242,"exact":true,"firstDiffAt":242,"real":"<end>","sim":"<end>"}
+{"game":"2695398974","realLines":172,"simLines":172,"exact":true,"firstDiffAt":172,"real":"<end>","sim":"<end>"}
+{"game":"2695551087","realLines":163,"simLines":168,"exact":false,"firstDiffAt":162,"real":"|win|","sim":"|switch|p2a|20% slp"}
+{"game":"2695964365","realLines":119,"simLines":119,"exact":true,"firstDiffAt":119,"real":"<end>","sim":"<end>"}
+{"game":"2695343976","realLines":322,"simLines":334,"exact":false,"firstDiffAt":321,"real":"|win|","sim":"|switch|p2a|100% par"}
+{"game":"2695857100","realLines":44,"simLines":186,"exact":false,"firstDiffAt":43,"real":"|win|","sim":"|switch|p2a|100%"}
+{"game":"2695564513","realLines":31,"simLines":45,"exact":false,"firstDiffAt":30,"real":"|win|","sim":"|switch|p2a|100%"}
+{"game":"2695410950","realLines":233,"simLines":233,"exact":true,"firstDiffAt":233,"real":"<end>","sim":"<end>"}
+{"game":"2695583915","realLines":189,"simLines":225,"exact":false,"firstDiffAt":188,"real":"|win|","sim":"|move|p1a|Moonblast|p2a: Baxcalibur"}
+{"game":"2695428606","realLines":137,"simLines":137,"exact":true,"firstDiffAt":137,"real":"<end>","sim":"<end>"}
+{"game":"2695554034","realLines":90,"simLines":90,"exact":true,"firstDiffAt":90,"real":"<end>","sim":"<end>"}
+{"game":"2695638979","realLines":307,"simLines":341,"exact":false,"firstDiffAt":306,"real":"|win|","sim":"|cant|p1a|slp"}
+{"game":"2695892805","realLines":80,"simLines":122,"exact":false,"firstDiffAt":79,"real":"|win|","sim":"|move|p2a|Drain Punch|p1a: Iron Hands"}
+{"game":"2695420056","realLines":175,"simLines":175,"exact":true,"firstDiffAt":175,"real":"<end>","sim":"<end>"}
+{"game":"2695340815","realLines":98,"simLines":98,"exact":true,"firstDiffAt":98,"real":"<end>","sim":"<end>"}
+{"game":"2695877775","realLines":260,"simLines":260,"exact":true,"firstDiffAt":260,"real":"<end>","sim":"<end>"}
+{"game":"2695400225","realLines":294,"simLines":307,"exact":false,"firstDiffAt":293,"real":"|win|","sim":"|move|p2a|Meteor Mash|p1a: Slowbro"}
+{"game":"2695351031","realLines":142,"simLines":188,"exact":false,"firstDiffAt":141,"real":"|win|","sim":"|move|p1a|Draining Kiss|p2a: Politoed"}
+{"game":"2695604948","realLines":195,"simLines":195,"exact":true,"firstDiffAt":195,"real":"<end>","sim":"<end>"}
+{"game":"2695601263","realLines":113,"simLines":128,"exact":false,"firstDiffAt":112,"real":"|win|","sim":"|switch|p2a|53% tox"}
+{"game":"2695970890","realLines":183,"simLines":187,"exact":false,"firstDiffAt":182,"real":"|win|","sim":"|move|p2a|Flamethrower|p1a: Basculegion"}
+{"game":"2695770709","realLines":116,"simLines":116,"exact":true,"firstDiffAt":116,"real":"<end>","sim":"<end>"}
+{"game":"2695929699","realLines":99,"simLines":99,"exact":true,"firstDiffAt":99,"real":"<end>","sim":"<end>"}
+{"game":"2695911526","realLines":100,"simLines":195,"exact":false,"firstDiffAt":99,"real":"|win|","sim":"|switch|p1a|59%"}
+{"game":"2695445515","realLines":227,"simLines":227,"exact":true,"firstDiffAt":227,"real":"<end>","sim":"<end>"}
+{"game":"2695933355","realLines":112,"simLines":132,"exact":false,"firstDiffAt":111,"real":"|win|","sim":"|move|p1a|Body Slam|p2a: Bellossom"}
+{"game":"2695887104","realLines":282,"simLines":282,"exact":true,"firstDiffAt":282,"real":"<end>","sim":"<end>"}
+{"game":"2695600827","realLines":100,"simLines":100,"exact":true,"firstDiffAt":100,"real":"<end>","sim":"<end>"}
+{"game":"2695535649","realLines":101,"simLines":101,"exact":true,"firstDiffAt":101,"real":"<end>","sim":"<end>"}
+{"game":"2695453805","realLines":78,"simLines":157,"exact":false,"firstDiffAt":77,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695969474","realLines":165,"simLines":187,"exact":false,"firstDiffAt":164,"real":"|win|","sim":"|switch|p2a|100%"}
+{"game":"2695781012","realLines":175,"simLines":175,"exact":true,"firstDiffAt":175,"real":"<end>","sim":"<end>"}
+{"game":"2695660706","realLines":65,"simLines":65,"exact":true,"firstDiffAt":65,"real":"<end>","sim":"<end>"}
+{"game":"2695366495","realLines":306,"simLines":335,"exact":false,"firstDiffAt":305,"real":"|win|","sim":"|move|p1a|Triple Axel|p2a: Slowbro"}
+{"game":"2695923373","realLines":65,"simLines":90,"exact":false,"firstDiffAt":64,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695815092","realLines":400,"simLines":400,"exact":true,"firstDiffAt":400,"real":"<end>","sim":"<end>"}
+{"game":"2695365662","realLines":104,"simLines":202,"exact":false,"firstDiffAt":103,"real":"|win|","sim":"|move|p1a|Earth Power|p2a: Delibird"}
+{"game":"2695809495","realLines":162,"simLines":162,"exact":true,"firstDiffAt":162,"real":"<end>","sim":"<end>"}
+SET_DONE

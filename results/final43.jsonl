@@ -1,0 +1,44 @@
+{"game":"2097658735","realLines":399,"simLines":418,"exact":false,"firstDiffAt":398,"real":"|win|","sim":"|switch|p2a|4%"}
+{"game":"2099652333","realLines":150,"simLines":159,"exact":false,"firstDiffAt":149,"real":"|win|","sim":"|move|p2a|Thunderbolt|p1a: Dondozo"}
+{"game":"2104939986","realLines":282,"simLines":282,"exact":true,"firstDiffAt":282,"real":"<end>","sim":"<end>"}
+{"game":"2108556912","realLines":129,"simLines":145,"exact":false,"firstDiffAt":128,"real":"|win|","sim":"|move|p2a|Earthquake|p1a: Rhydon"}
+{"game":"2112313608","realLines":269,"simLines":269,"exact":true,"firstDiffAt":269,"real":"<end>","sim":"<end>"}
+{"game":"2113750211","realLines":129,"simLines":142,"exact":false,"firstDiffAt":128,"real":"|win|","sim":"|switch|p1a|9%"}
+{"game":"2113772473","realLines":188,"simLines":188,"exact":true,"firstDiffAt":188,"real":"<end>","sim":"<end>"}
+{"game":"2115561264","realLines":215,"simLines":215,"exact":true,"firstDiffAt":215,"real":"<end>","sim":"<end>"}
+{"game":"2119905168","realLines":145,"simLines":145,"exact":true,"firstDiffAt":145,"real":"<end>","sim":"<end>"}
+{"game":"2126856728","realLines":206,"simLines":225,"exact":false,"firstDiffAt":205,"real":"|win|","sim":"|switch|p2a|49% par"}
+{"game":"2127525323","realLines":229,"simLines":229,"exact":true,"firstDiffAt":229,"real":"<end>","sim":"<end>"}
+{"game":"2149997026","realLines":157,"simLines":217,"exact":false,"firstDiffAt":156,"real":"|win|","sim":"|move|p1a|Bug Buzz|p2a: Sandslash"}
+{"game":"2152949532","realLines":208,"simLines":208,"exact":true,"firstDiffAt":208,"real":"<end>","sim":"<end>"}
+{"game":"2156077866","realLines":196,"simLines":196,"exact":true,"firstDiffAt":196,"real":"<end>","sim":"<end>"}
+{"game":"2187585455","realLines":159,"simLines":159,"exact":true,"firstDiffAt":159,"real":"<end>","sim":"<end>"}
+{"game":"2202149438","realLines":198,"simLines":201,"exact":false,"firstDiffAt":197,"real":"|win|","sim":"|switch|p1a|1% psn"}
+{"game":"2202575078","realLines":173,"simLines":173,"exact":true,"firstDiffAt":173,"real":"<end>","sim":"<end>"}
+{"game":"2212681226","realLines":138,"simLines":224,"exact":false,"firstDiffAt":137,"real":"|win|","sim":"|move|p2a|Flamethrower|p1a: Altaria"}
+{"game":"2221009399","realLines":618,"simLines":618,"exact":true,"firstDiffAt":618,"real":"<end>","sim":"<end>"}
+{"game":"2256914054","realLines":187,"simLines":187,"exact":true,"firstDiffAt":187,"real":"<end>","sim":"<end>"}
+{"game":"2334796253","realLines":294,"simLines":298,"exact":false,"firstDiffAt":293,"real":"|win|","sim":"|move|p1a|Earthquake|p2a: Eternatus"}
+{"game":"2346267161","realLines":214,"simLines":214,"exact":true,"firstDiffAt":214,"real":"<end>","sim":"<end>"}
+{"game":"2389891754","realLines":223,"simLines":253,"exact":false,"firstDiffAt":222,"real":"|win|","sim":"|move|p1a|Sludge Wave|p2a: Serperior"}
+{"game":"2401191764","realLines":187,"simLines":193,"exact":false,"firstDiffAt":186,"real":"|win|","sim":"|switch|p2a|49%"}
+{"game":"2408802469","realLines":330,"simLines":330,"exact":true,"firstDiffAt":330,"real":"<end>","sim":"<end>"}
+{"game":"2409841856","realLines":319,"simLines":319,"exact":true,"firstDiffAt":319,"real":"<end>","sim":"<end>"}
+{"game":"2421120867","realLines":193,"simLines":210,"exact":false,"firstDiffAt":192,"real":"|win|","sim":"|switch|p1a|68%"}
+{"game":"2456486096","realLines":230,"simLines":230,"exact":true,"firstDiffAt":230,"real":"<end>","sim":"<end>"}
+{"game":"2500284438","realLines":150,"simLines":158,"exact":false,"firstDiffAt":149,"real":"|win|","sim":"|switch|p1a|18%"}
+{"game":"2501570765","realLines":202,"simLines":202,"exact":true,"firstDiffAt":202,"real":"<end>","sim":"<end>"}
+{"game":"2512221494","realLines":365,"simLines":365,"exact":true,"firstDiffAt":365,"real":"<end>","sim":"<end>"}
+{"game":"2512343786","realLines":164,"simLines":164,"exact":true,"firstDiffAt":164,"real":"<end>","sim":"<end>"}
+{"game":"2514669784","realLines":168,"simLines":168,"exact":true,"firstDiffAt":168,"real":"<end>","sim":"<end>"}
+{"game":"2517643452","realLines":292,"simLines":292,"exact":true,"firstDiffAt":292,"real":"<end>","sim":"<end>"}
+{"game":"2546444394","realLines":238,"simLines":238,"exact":true,"firstDiffAt":238,"real":"<end>","sim":"<end>"}
+{"game":"2561823238","realLines":827,"simLines":827,"exact":true,"firstDiffAt":827,"real":"<end>","sim":"<end>"}
+{"game":"2586561717","realLines":234,"simLines":234,"exact":true,"firstDiffAt":234,"real":"<end>","sim":"<end>"}
+{"game":"2618661624","realLines":243,"simLines":243,"exact":true,"firstDiffAt":243,"real":"<end>","sim":"<end>"}
+{"game":"2628696377","realLines":183,"simLines":183,"exact":true,"firstDiffAt":183,"real":"<end>","sim":"<end>"}
+{"game":"2664939649","realLines":268,"simLines":268,"exact":true,"firstDiffAt":268,"real":"<end>","sim":"<end>"}
+{"game":"2691889209","realLines":96,"simLines":96,"exact":true,"firstDiffAt":96,"real":"<end>","sim":"<end>"}
+{"game":"2692505446","realLines":203,"simLines":203,"exact":true,"firstDiffAt":203,"real":"<end>","sim":"<end>"}
+{"game":"2692874738","realLines":385,"simLines":385,"exact":true,"firstDiffAt":385,"real":"<end>","sim":"<end>"}
+SET_DONE

@@ -1,0 +1,51 @@
+{"game":"2695336441","realLines":115,"simLines":115,"exact":true,"firstDiffAt":115,"real":"<end>","sim":"<end>"}
+{"game":"2695643621","realLines":156,"simLines":156,"exact":true,"firstDiffAt":156,"real":"<end>","sim":"<end>"}
+{"game":"2695470498","realLines":99,"simLines":111,"exact":false,"firstDiffAt":98,"real":"|win|","sim":"|switch|p1a|100%"}
+{"game":"2695791373","realLines":95,"simLines":167,"exact":false,"firstDiffAt":94,"real":"|win|","sim":"|move|p2a|Draining Kiss|p1a: Tsareena"}
+{"game":"2695444578","realLines":200,"simLines":200,"exact":true,"firstDiffAt":200,"real":"<end>","sim":"<end>"}
+{"game":"2695596786","realLines":189,"simLines":189,"exact":true,"firstDiffAt":189,"real":"<end>","sim":"<end>"}
+{"game":"2695781442","realLines":173,"simLines":178,"exact":false,"firstDiffAt":172,"real":"|win|","sim":"|move|p1a|Crunch|p2a: Camerupt"}
+{"game":"2695803457","realLines":28,"simLines":184,"exact":false,"firstDiffAt":27,"real":"|win|","sim":"|move|p2a|Close Combat|p1a: Duraludon"}
+{"game":"2695967853","realLines":179,"simLines":179,"exact":true,"firstDiffAt":179,"real":"<end>","sim":"<end>"}
+{"game":"2695712781","realLines":162,"simLines":183,"exact":false,"firstDiffAt":51,"real":"|cant|p1a|par","sim":"|move|p2a|Take Heart|p2a: Phione"}
+{"game":"2695370336","realLines":188,"simLines":194,"exact":false,"firstDiffAt":187,"real":"|win|","sim":"|switch|p2a|18%"}
+{"game":"2695776836","realLines":159,"simLines":167,"exact":false,"firstDiffAt":158,"real":"|win|","sim":"|move|p2a|Dark Pulse|p1a: Slither Wing"}
+{"game":"2695406309","realLines":166,"simLines":166,"exact":true,"firstDiffAt":166,"real":"<end>","sim":"<end>"}
+{"game":"2695892664","realLines":121,"simLines":121,"exact":true,"firstDiffAt":121,"real":"<end>","sim":"<end>"}
+{"game":"2695830430","realLines":73,"simLines":89,"exact":false,"firstDiffAt":72,"real":"|win|","sim":"|switch|p2a|100% slp"}
+{"game":"2695445304","realLines":234,"simLines":234,"exact":true,"firstDiffAt":234,"real":"<end>","sim":"<end>"}
+{"game":"2695481431","realLines":36,"simLines":117,"exact":false,"firstDiffAt":35,"real":"|win|","sim":"|switch|p2a|100%"}
+{"game":"2695591422","realLines":177,"simLines":177,"exact":true,"firstDiffAt":177,"real":"<end>","sim":"<end>"}
+{"game":"2695608360","realLines":21,"simLines":156,"exact":false,"firstDiffAt":20,"real":"|win|","sim":"|cant|p2a|slp"}
+{"game":"2695678969","realLines":82,"simLines":116,"exact":false,"firstDiffAt":81,"real":"|win|","sim":"|move|p2a|Power Trip|p1a: Zekrom"}
+{"game":"2695385848","realLines":101,"simLines":138,"exact":false,"firstDiffAt":100,"real":"|win|","sim":"|move|p1a|Iron Head|p2a: Vaporeon"}
+{"game":"2695374319","realLines":188,"simLines":202,"exact":false,"firstDiffAt":187,"real":"|win|","sim":"|switch|p2a|31%"}
+{"game":"2695883174","realLines":93,"simLines":163,"exact":false,"firstDiffAt":92,"real":"|win|","sim":"|move|p2a|Headlong Rush|p1a: Amoonguss"}
+{"game":"2695853381","realLines":90,"simLines":102,"exact":false,"firstDiffAt":89,"real":"|win|","sim":"|move|p2a|Tachyon Cutter|p1a: Gallade"}
+{"game":"2695891660","realLines":188,"simLines":188,"exact":true,"firstDiffAt":188,"real":"<end>","sim":"<end>"}
+{"game":"2695905941","realLines":153,"simLines":213,"exact":false,"firstDiffAt":152,"real":"|win|","sim":"|move|p2a|Bullet Seed|p1a: Excadrill"}
+{"game":"2695955085","realLines":18,"simLines":144,"exact":false,"firstDiffAt":17,"real":"|win|","sim":"|move|p1a|Thunderbolt|p2a: Fezandipiti"}
+{"game":"2695533855","realLines":188,"simLines":188,"exact":true,"firstDiffAt":188,"real":"<end>","sim":"<end>"}
+{"game":"2695405087","realLines":154,"simLines":154,"exact":true,"firstDiffAt":154,"real":"<end>","sim":"<end>"}
+{"game":"2695410059","realLines":165,"simLines":159,"exact":false,"firstDiffAt":89,"real":"|move|p1a|Sleep Talk|p1a: Dondozo","sim":"|-heal|p1a|54% slp|item: Leftovers"}
+{"game":"2695904377","realLines":100,"simLines":150,"exact":false,"firstDiffAt":99,"real":"|win|","sim":"|move|p2a|Dynamax Cannon|p1a: Gastrodon"}
+{"game":"2695913570","realLines":101,"simLines":101,"exact":true,"firstDiffAt":101,"real":"<end>","sim":"<end>"}
+{"game":"2695500286","realLines":195,"simLines":195,"exact":true,"firstDiffAt":195,"real":"<end>","sim":"<end>"}
+{"game":"2695919711","realLines":175,"simLines":197,"exact":false,"firstDiffAt":174,"real":"|win|","sim":"|move|p2a|Double-Edge|p1a: Toxicroak"}
+{"game":"2695586116","realLines":154,"simLines":154,"exact":true,"firstDiffAt":154,"real":"<end>","sim":"<end>"}
+{"game":"2695684461","realLines":93,"simLines":105,"exact":false,"firstDiffAt":92,"real":"|win|","sim":"|-enditem|p1a|Custap Berry|[eat]"}
+{"game":"2695837964","realLines":91,"simLines":91,"exact":true,"firstDiffAt":91,"real":"<end>","sim":"<end>"}
+{"game":"2695352691","realLines":126,"simLines":126,"exact":true,"firstDiffAt":126,"real":"<end>","sim":"<end>"}
+{"game":"2695530002","realLines":148,"simLines":153,"exact":false,"firstDiffAt":147,"real":"|win|","sim":"|move|p2a|Knock Off|p1a: Glaceon"}
+{"game":"2695879643","realLines":148,"simLines":147,"exact":false,"firstDiffAt":137,"real":"|-end|p2a|Charge","sim":"|move|p1a|Crunch|p2a: Bellibolt"}
+{"game":"2695871134","realLines":107,"simLines":149,"exact":false,"firstDiffAt":106,"real":"|win|","sim":"|move|p2a|Ice Beam|p1a: Ludicolo"}
+{"game":"2695339828","realLines":142,"simLines":159,"exact":false,"firstDiffAt":141,"real":"|win|","sim":"|switch|p2a|50%"}
+{"game":"2695491646","realLines":161,"simLines":164,"exact":false,"firstDiffAt":160,"real":"|win|","sim":"|switch|p2a|24%"}
+{"game":"2695523158","realLines":283,"simLines":286,"exact":false,"firstDiffAt":282,"real":"|win|","sim":"|move|p1a|Shadow Ball|p2a: Sinistcha"}
+{"game":"2695742468","realLines":40,"simLines":40,"exact":true,"firstDiffAt":40,"real":"<end>","sim":"<end>"}
+{"game":"2695520971","realLines":158,"simLines":173,"exact":false,"firstDiffAt":157,"real":"|win|","sim":"|move|p2a|Head Smash|p1a: Stonjourner"}
+{"game":"2695370583","realLines":214,"simLines":214,"exact":true,"firstDiffAt":214,"real":"<end>","sim":"<end>"}
+{"game":"2695679947","realLines":161,"simLines":161,"exact":true,"firstDiffAt":161,"real":"<end>","sim":"<end>"}
+{"game":"2695574943","realLines":517,"simLines":358,"exact":false,"firstDiffAt":84,"real":"|-singleturn|p2a|move: Beak Blast","sim":"|move|p1a|Encore|p2a: Toucannon"}
+{"game":"2695453075","realLines":19,"simLines":174,"exact":false,"firstDiffAt":18,"real":"|win|","sim":"|switch|p2a|100%"}
+SET_DONE
